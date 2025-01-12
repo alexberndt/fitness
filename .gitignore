@@ -1,1 +1,6 @@
 __pycache__
+build
+.venv
+.docker
+.vscode
+app_old

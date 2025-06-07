@@ -2,6 +2,8 @@ services:
 
   backend:
     build: .
+    environment:
+      - LOG_LEVEL=WARNING
     ports:
       - 8000:80
 

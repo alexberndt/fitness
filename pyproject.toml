@@ -10,5 +10,3 @@ dependencies = [
     "pydantic>=2.10.4",
     "asyncpg>=0.30.0",
 ]
-[tool.setuptools]
-packages = ["fitness"]

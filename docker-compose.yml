@@ -6,4 +6,3 @@ services:
       - LOG_LEVEL=WARNING
     ports:
       - 8000:80
-

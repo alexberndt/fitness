@@ -8,14 +8,7 @@ dependencies = [
     "fastapi[standard]>=0.115.6",
     "pydantic-settings>=2.7.0",
     "pydantic>=2.10.4",
-    "sqlalchemy>=2.0.36",
     "asyncpg>=0.30.0",
-    "greenlet>=3.1.1",
-    "alembic>=1.14.0",
-    "pandas>=2.2.3",
-    "matplotlib>=3.10.0",
-    "sqlmodel>=0.0.22",
-    "psycopg2>=2.9.10",
 ]
 [tool.setuptools]
 packages = ["fitness"]

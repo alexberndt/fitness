@@ -4,6 +4,4 @@ build
 .docker
 .vscode
 app_old
-postgres-data
-fitness.egg-info
 .env
